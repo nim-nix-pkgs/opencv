@@ -45,11 +45,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653702210,
-        "narHash": "sha256-YHESoLZkqAw73+kUYqoMK6B1IWyfvS42/YCdSu6vfMM=",
+        "lastModified": 1656297970,
+        "narHash": "sha256-9lEniksj/+BR5KuKYPTu9QpUIypSt5ITV4w/gehrh8w=",
         "owner": "nim-nix-pkgs",
         "repo": "opencv",
-        "rev": "320e867a6c87dfc082edcba536e3205cb6384482",
+        "rev": "c11ae638214f91f492bfaca7d84b8f5217b796a3",
         "type": "github"
       },
       "original": {
